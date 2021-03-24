@@ -1,6 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": {"name": "Ernesto Cardenas", "email": "ernestoca2000@gmail.com"},
+	"author": {
+		"name": "Ernesto Cardenas",
+		"email": "ernestoca2000@gmail.com"
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
